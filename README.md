@@ -1,6 +1,6 @@
 ## Try Fluent Assertions
 
-- http://www.fluentassertions.com
+http://www.fluentassertions.com
 
 - [x] Basic assertsions
 - [x] Nullable types
